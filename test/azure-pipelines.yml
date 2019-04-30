@@ -171,7 +171,7 @@ jobs:
   timeoutInMinutes: 0
   cancelTimeoutInMinutes: 300
   pool:
-    vmImage: 'macos-10.13'
+    vmImage: 'macos-10.14'
 
   steps:
   - script: |
