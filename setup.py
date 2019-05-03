@@ -13,7 +13,7 @@ except ImportError:
 
 setup(
     name='itk-higherorderaccurategradient',
-    version='1.0.4',
+    version='1.0.5',
     author='Matthew M. McCormick',
     author_email='matt.mccormick@kitware.com',
     packages=['itk'],
@@ -48,6 +48,6 @@ setup(
     keywords='ITK Higher-order Derivative Gradient',
     url=r'https://github.com/InsightSoftwareConsortium/ITKHigherOrderAccurateGradient',
     install_requires=[
-        r'itk>=5.0rc01'
+        r'itk>=5.0rc02'
     ]
     )
