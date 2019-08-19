@@ -34,7 +34,7 @@ build configuration::
 Or, build the module as a separate project against an ITK build tree::
 
   git clone https://github.com/InsightSoftwareConsortium/ITKHigherOrderAccurateGradient
-  mkdir ITKHigherOrderAccurateGradient-bulid
+  mkdir ITKHigherOrderAccurateGradient-build
   cd ITKHigherOrderAccurateGradient-build
   cmake -DITK_DIR=/path/to/ITK-build ../ITKHigherOrderAccurateGradient
   cmake --build .
