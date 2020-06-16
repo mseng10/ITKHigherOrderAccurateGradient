@@ -1,6 +1,8 @@
 ITKHigherOrderAccurateGradient
 ==============================
 
+.. image:: https://github.com/InsightSoftwareConsortium/ITKHigherOrderAccurateGradient/workflows/Build,%20test,%20package/badge.svg
+
 .. image:: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_apis/build/status/InsightSoftwareConsortium.ITKHigherOrderAccurateGradient?branchName=master
     :target: https://dev.azure.com/InsightSoftwareConsortium/ITKModules/_build/latest?definitionId=2&branchName=master
     :alt: Build status
